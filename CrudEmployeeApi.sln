@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudEmployeeApi", "CrudEmployeeApi\CrudEmployeeApi.csproj", "{131FF9A7-25B6-43E8-96DA-5902425EF58E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudEmployeeApi.Tests", "CrudEmployeeApi.Tests\CrudEmployeeApi.Tests.csproj", "{15C992D3-12AF-4709-A52A-D1C4390EB89B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131FF9A7-25B6-43E8-96DA-5902425EF58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131FF9A7-25B6-43E8-96DA-5902425EF58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131FF9A7-25B6-43E8-96DA-5902425EF58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131FF9A7-25B6-43E8-96DA-5902425EF58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C992D3-12AF-4709-A52A-D1C4390EB89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C992D3-12AF-4709-A52A-D1C4390EB89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C992D3-12AF-4709-A52A-D1C4390EB89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C992D3-12AF-4709-A52A-D1C4390EB89B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
